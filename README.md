@@ -30,6 +30,6 @@ Abra [http://localhost:3000](http://localhost:3000) com seu navegador para ver o
 
 ### ScreenShots
 
-![Home](./docs/camisas.png.png)
-![Carrinho](./docs/compras.png.png)
+![Home](./docs/camisas.png)
+![Carrinho](./docs/compras.png)
 ...
